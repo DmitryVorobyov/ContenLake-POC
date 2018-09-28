@@ -17,4 +17,4 @@ Blah blah blah
 
 Blaaaaaah
 
-### Content link: ../Content/TopicSlides.pptx
+[**Content link**](Content/TopicSlides.pptx)
