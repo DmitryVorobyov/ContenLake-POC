@@ -17,8 +17,6 @@ Blah blah blah
 
 Blaaaaaah
 
-### Content link: [a relative link](Content/TopicDocument.docx)
-
 [**Content link**](Content/TopicDocument.docx)
     
     
